@@ -44,9 +44,13 @@ cos(θ) = (BA · BC) / (|BA| |BC|)
 - Accurate joint angle estimation using manual annotation  
 
 ---
-
 ##  Demo
-Video file included in repository: `angle tracking.mp4`
+
+This video demonstrates the process of manually marking anatomical points and calculating joint angles frame-by-frame.
+
+▶️ **Watch Demo Video:**  
+[View on Google Drive](https://drive.google.com/file/d/1Rprh8NsqBaEbCnW0t9gnPsRudWXPirWM/view?usp=drive_link)
+
 
 ---
 
@@ -64,7 +68,7 @@ Video file included in repository: `angle tracking.mp4`
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Automate marker detection using computer vision  
 - Integrate pose estimation models (e.g., OpenPose, MediaPipe)  
 - Real-time angle tracking system  
